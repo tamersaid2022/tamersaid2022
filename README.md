@@ -1,14 +1,16 @@
 <div align="center">
 
-<!-- ╔═══════════════════════════════════════════════════════════════════════════════╗
-     ║  TAMER KHALIFA - GITHUB PROFILE README                                        ║
-     ║                                                                               ║
-     ║  🔴 IMPORTANT: This repo MUST be named "tamersaid2022" (same as username)    ║
-     ║     to appear on your GitHub profile!                                         ║
-     ╚═══════════════════════════════════════════════════════════════════════════════╝ -->
+<!-- 
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  TAMER KHALIFA - GITHUB PROFILE README                                       ║
+║                                                                              ║
+║  ⚠️ RECOMMENDED: Rename your profile photo from "profile.jpg .png" to       ║
+║     "profile.png" (no spaces) for cleaner URLs                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+-->
 
-<!-- Profile Photo - Using your uploaded photo -->
-<img src="https://raw.githubusercontent.com/tamersaid2022/tamersaid2022/main/profile.jpg" width="180" style="border-radius: 50%;" alt="Tamer Khalifa"/>
+<!-- Profile Photo - Current filename has a space, using encoded URL -->
+<img src="https://raw.githubusercontent.com/tamersaid2022/tamersaid2022/main/profile.jpg%20.png" width="180" style="border-radius:50%;" alt="Tamer Khalifa"/>
 
 <br/>
 
@@ -17,18 +19,20 @@
 ### Expert Networking & Security Engineer | SITA Egypt
 
 <br/>
-  <img src="https://img.shields.io/badge/CCIE%20%2368867-Enterprise%20Infrastructure-049FD9?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1BA0D7" alt="CCIE #68867" height="35"/>
-</a>
 
+<!-- CCIE Badge - shields.io (always works) -->
+<img src="https://img.shields.io/badge/CCIE%20%2368867-Enterprise%20Infrastructure-049FD9?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1BA0D7" alt="CCIE #68867" height="35"/>
+
+<br/><br/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%90+Network+Security+%26+Automation+Engineer;%F0%9F%8C%90+8%2B+Years+in+Enterprise+Networking;%F0%9F%A4%96+Automating+Complex+Infrastructure+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%90+Network+Security+%26+Automation+Engineer;%F0%9F%8C%90+10%2B+Years+in+Enterprise+Networking;%F0%9F%A4%96+Automating+Complex+Infrastructure+Solutions" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<!-- Social & Contact Badges -->
+<!-- Contact & Social Badges -->
 <p>
   <a href="https://www.linkedin.com/in/tamersaid/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -43,10 +47,10 @@
   <img src="https://komarev.com/ghpvc/?username=tamersaid2022&label=Profile%20Views&color=1a5276&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<!-- Certification Text Badges -->
+<!-- Certification Badges -->
 <p>
   <img src="https://img.shields.io/badge/CCIE-Enterprise%20Infrastructure-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="CCIE"/>
-  <img src="https://img.shields.io/badge/CCNP-Enterprise%20|%20Data%20Center-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="CCNP"/>
+  <img src="https://img.shields.io/badge/CCNP-Enterprise%20%7C%20Data%20Center-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="CCNP"/>
   <img src="https://img.shields.io/badge/FCSS-SD--WAN%20Architect-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="FCSS"/>
   <img src="https://img.shields.io/badge/PCNSA-Palo%20Alto-F04E23?style=flat-square&logo=paloaltonetworks&logoColor=white" alt="PCNSA"/>
   <img src="https://img.shields.io/badge/F5--CTS-BIG--IP%20LTM-E4002B?style=flat-square&logo=f5&logoColor=white" alt="F5"/>
@@ -284,26 +288,26 @@ def audit_compliance():
 
 ### 🔥 Network Security
 <p>
-  <img src="https://img.shields.io/badge/Palo%20Alto%20NGFW-F04E23?style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="Palo Alto"/>
+  <img src="https://img.shields.io/badge/Palo_Alto_NGFW-F04E23?style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="Palo Alto"/>
   <img src="https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiGate"/>
-  <img src="https://img.shields.io/badge/F5%20BIG--IP-E4002B?style=for-the-badge&logo=f5&logoColor=white" alt="F5"/>
-  <img src="https://img.shields.io/badge/Cisco%20ASA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco ASA"/>
-  <img src="https://img.shields.io/badge/Cisco%20ISE-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="ISE"/>
+  <img src="https://img.shields.io/badge/F5_BIG--IP-E4002B?style=for-the-badge&logo=f5&logoColor=white" alt="F5"/>
+  <img src="https://img.shields.io/badge/Cisco_ASA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco ASA"/>
+  <img src="https://img.shields.io/badge/Cisco_ISE-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="ISE"/>
 </p>
 
 ### 🌐 Networking & SDN
 <p>
-  <img src="https://img.shields.io/badge/Cisco%20SD--WAN-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="SD-WAN"/>
-  <img src="https://img.shields.io/badge/Cisco%20DNA%20Center-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="DNA Center"/>
-  <img src="https://img.shields.io/badge/Cisco%20ACI-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="ACI"/>
-  <img src="https://img.shields.io/badge/Nexus%20DC-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Nexus"/>
-  <img src="https://img.shields.io/badge/Versa%20SD--WAN-00A4EF?style=for-the-badge" alt="Versa"/>
+  <img src="https://img.shields.io/badge/Cisco_SD--WAN-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="SD-WAN"/>
+  <img src="https://img.shields.io/badge/Cisco_DNA_Center-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="DNA Center"/>
+  <img src="https://img.shields.io/badge/Cisco_ACI-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="ACI"/>
+  <img src="https://img.shields.io/badge/Nexus_DC-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Nexus"/>
+  <img src="https://img.shields.io/badge/Versa_SD--WAN-00A4EF?style=for-the-badge" alt="Versa"/>
 </p>
 
 ### ☁️ Cloud & Virtualization
 <p>
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/VMware%20ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/VMware_ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"/>
   <img src="https://img.shields.io/badge/NSX--T-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="NSX-T"/>
   <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Hyper-V"/>
 </p>
@@ -314,7 +318,7 @@ def audit_compliance():
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
   <img src="https://img.shields.io/badge/Netmiko-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Netmiko"/>
   <img src="https://img.shields.io/badge/NAPALM-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="NAPALM"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
@@ -350,7 +354,7 @@ def audit_compliance():
 | 🎯 **Specialist** | ACI Implementation (DCACI) | ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) |
 | 🏗️ **Architect** | FCSS SD-WAN 7.2 Architect | ![Fortinet](https://img.shields.io/badge/-Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white) |
 | ⭐ **Professional** | FCSS Solution Specialist | ![Fortinet](https://img.shields.io/badge/-Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white) |
-| ⭐ **Professional** | PCNSA | ![Palo Alto](https://img.shields.io/badge/-Palo%20Alto-F04E23?style=flat-square&logo=paloaltonetworks&logoColor=white) |
+| ⭐ **Professional** | PCNSA | ![Palo Alto](https://img.shields.io/badge/-Palo_Alto-F04E23?style=flat-square&logo=paloaltonetworks&logoColor=white) |
 | 🎯 **Specialist** | F5-CTS BIG-IP LTM | ![F5](https://img.shields.io/badge/-F5-E4002B?style=flat-square&logo=f5&logoColor=white) |
 
 </div>
@@ -408,7 +412,6 @@ def audit_compliance():
 
 <div align="center">
 
-<!-- GitHub Stats - Using correct username -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamersaid2022&theme=tokyonight&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=FF6B6B&currStreakLabel=00BFFF" alt="GitHub Streak" height="180"/>
 
 <br/><br/>
