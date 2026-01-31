@@ -399,16 +399,12 @@ def audit_compliance():
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tamersaid2022&theme=tokyonight&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=FF6B6B&currStreakLabel=00BFFF" alt="GitHub Streak" height="180"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=tamersaid2022&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamersaid2022&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF" alt="Top Languages" height="165"/>
+<!-- GitHub Streak - This one works! -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tamersaid2022&theme=tokyonight&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=FF6B6B&currStreakLabel=00BFFF" alt="GitHub Streak"/>
 
 </div>
 
