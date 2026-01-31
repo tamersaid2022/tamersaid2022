@@ -65,7 +65,7 @@ class NetworkSecurityEngineer:
         self.role = "Expert Networking & Security Engineer"
         self.company = "SITA Egypt"
         self.ccie_number = 68867
-        self.experience_years = 8
+        self.experience_years = 10
         self.location = "Cairo, Egypt"
         self.credly = "https://www.credly.com/users/tamer-said-hashim"
         
