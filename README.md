@@ -1,16 +1,7 @@
 <div align="center">
 
-<!-- 
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  TAMER KHALIFA - GITHUB PROFILE README                                       ║
-║                                                                              ║
-║  ⚠️ RECOMMENDED: Rename your profile photo from "profile.jpg .png" to       ║
-║     "profile.png" (no spaces) for cleaner URLs                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
--->
-
-<!-- Profile Photo - Current filename has a space, using encoded URL -->
-<img src="https://raw.githubusercontent.com/tamersaid2022/tamersaid2022/main/profile.png" width="180" .../>
+<!-- Profile Photo - Using GitHub Avatar (ALWAYS WORKS!) -->
+<img src="https://github.com/tamersaid2022.png" width="180" style="border-radius:50%;" alt="Tamer Khalifa"/>
 
 <br/>
 
@@ -20,7 +11,7 @@
 
 <br/>
 
-<!-- CCIE Badge - shields.io (always works) -->
+<!-- CCIE Badge -->
 <img src="https://img.shields.io/badge/CCIE%20%2368867-Enterprise%20Infrastructure-049FD9?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1BA0D7" alt="CCIE #68867" height="35"/>
 
 <br/><br/>
