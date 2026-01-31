@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Profile Photo - Using GitHub Avatar (ALWAYS WORKS!) -->
-<img src="https://github.com/tamersaid2022.png" width="180" style="border-radius:50%;" alt="Tamer Khalifa"/>
-
 <br/>
 
 # 👋 Hi, I'm **Tamer Khalifa**
