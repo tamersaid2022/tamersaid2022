@@ -10,7 +10,7 @@
 -->
 
 <!-- Profile Photo - Current filename has a space, using encoded URL -->
-<img src="https://raw.githubusercontent.com/tamersaid2022/tamersaid2022/main/profile.jpg%20.png" width="180" style="border-radius:50%;" alt="Tamer Khalifa"/>
+<img src="https://raw.githubusercontent.com/tamersaid2022/tamersaid2022/main/profile.png" width="180" .../>
 
 <br/>
 
