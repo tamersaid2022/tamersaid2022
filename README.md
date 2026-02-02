@@ -388,7 +388,7 @@ def audit_compliance():
 
 | 🏅 Award | 📅 Year | 🏢 Organization | 💡 Reason |
 |:--------:|:-------:|:---------------:|:---------:|
-| **CSO Maestros of the Year** | 2023 | SITA | High-performing team recognition |
+| **CSO Maestros of the Year** | 2023 | Orange | High-performing team recognition |
 | **Change Maker Award** | 2020 | Orange | Customer success excellence |
 | **Local Excellence Award** | Multiple | Orange | Outstanding contributions |
 
